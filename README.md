@@ -1,4 +1,4 @@
 # binar-latihan-git
-nama : Rania Nur Hikmah 
-umur : 23 tahun 
-program : Android Develeopment 
+nama : Rania Nur Hikmah <br>
+umur : 23 tahun <br>
+program : Android Develeopment <br>
