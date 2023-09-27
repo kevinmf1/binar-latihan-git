@@ -18,3 +18,5 @@ umur : 20 tahun
 club kesukaan : manchester city
 
 
+nama : Wildan Fatahillah Akbar
+
